@@ -1,10 +1,8 @@
 # SIMEX Project
 
 ## Background
-*(To be completed: describe the problem context, motivation, and statistical background here.)*
 
 ## Problem Statement
-*(To be completed: specify the goals of the project, hypotheses, or research questions here.)*
 
 ---
 
@@ -42,13 +40,9 @@
 ---
 
 ## Installation
-*(To be completed: add instructions for environment setup, dependencies, and installation here.)*
 
 ## Usage
-*(To be completed: provide examples of how to run each script, including command-line options if applicable.)*
 
 ## Outputs
-*(To be completed: describe output formats and how to interpret results.)*
 
 ## License
-*(To be completed: add license information here, e.g., MIT, GPL, etc.)*
